@@ -1,6 +1,5 @@
 # Smart Cane 
-Real-Time Object Detection using OpenCV on Raspberry-PI for visually impaired people
-
+Real-Time Object Detection using OpenCV on Raspberry-PI
 
 ## Usage
 - `gitclone` this repository.
