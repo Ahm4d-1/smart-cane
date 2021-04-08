@@ -7,3 +7,4 @@ Real-Time Object Detection using OpenCV on Raspberry-PI
 
 
 Details of the project and how to use it can be found in this article:
+https://ahmed-alturki.medium.com/real-time-object-detection-using-opencv-for-visually-impaired-people-9fcc84b927c
